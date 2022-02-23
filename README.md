@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HaydenSmith25
 - 👀 I’m interested in web3, history, the outdoors, the impact of healthy behaviors, stoicism, and the art of basketball.
-- 🌱 I’m currently learning HTML, CSS, Javascript with FullStack Academy. Currently in Phase 3 working with backend technologies, Postgresql, node.js, authentication/authorization via JSWON webtokens, and TDD.
+- 🌱 I’m currently learning HTML, CSS, Javascript with FullStack Academy. Currently in Phase 3 working with backend technologies, Postgresql, node.js, authentication/authorization via JSWON webtokens, TDD, and our capstone project (Grace-Shopper a fullstack application that functions as an e-commerce site).
 - 📫 How to reach me Hayden.smith-25@outlook.com
 
 <!---
