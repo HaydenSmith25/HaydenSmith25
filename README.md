@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HaydenSmith25
+- 👋 Hi, I’m Hayden
 - 👀 I’m interested in web3, history, the outdoors, the impact of healthy behaviors, stoicism, and the art of basketball.
 - 🌱 I’m a recent graduate of the Fullstack Academy web development bootcamp. Currently building upon my understanding of HTML, CSS, Javascript, Postgresql, backend technologies, node.js, TDD, OOP, React.js, and restful API's through various projects and upon source material.
 - 📫 How to reach me Hayden.smith-25@outlook.com
